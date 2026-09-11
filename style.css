@@ -1,3 +1,4 @@
 h1 {
-    display: inline;
+    display: inline-block;
+    margin-right: 15px; /* Προαιρετικά, για να μην είναι κολλημένα μεταξύ τους */
 }
