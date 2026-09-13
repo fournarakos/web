@@ -1,4 +1,7 @@
 h1 {
-    display: inline-block;
-    margin-right: 15px; /* Προαιρετικά, για να μην είναι κολλημένα μεταξύ τους */
+      background-color: gold;
+      color:blue;
+}
+body {
+    background-color: gold;
 }
